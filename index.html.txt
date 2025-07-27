@@ -1,0 +1,8 @@
+<!-- AI Voltage Predictor iFrame -->
+<iframe 
+  src="https://srishti-sharma15-aivoltage-preditor.hf.space" 
+  width="100%" 
+  height="600" 
+  frameborder="0" 
+  style="border:none; margin-top: 20px;">
+</iframe>
